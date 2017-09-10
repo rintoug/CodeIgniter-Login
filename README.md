@@ -3,14 +3,14 @@ Sample script demonstrating a CodeIgniter login
 In application/config/autoload.php
 Autoload helpers
 
-$autoload['helper'] = array('url','common');
+<pre>$autoload['helper'] = array('url','common');</pre>
 
 Autoload libraries
 
-$autoload['libraries'] = array('database','session');
+<pre>$autoload['libraries'] = array('database','session');</pre>
 
 Database you want to add the your database details in applicationconfig/database.php
-
+<pre>
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
@@ -32,3 +32,4 @@ $db['default'] = array(
 	'failover' => array(),
 	'save_queries' => TRUE
 );
+</pre>
