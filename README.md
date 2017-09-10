@@ -33,3 +33,6 @@ $db['default'] = array(
 	'save_queries' => TRUE
 );
 </pre>
+
+Login screen url will be :
+<pre>http://yourdoamain.com/myprojects/tboadmin/index.php/login</pre>
