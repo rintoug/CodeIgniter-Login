@@ -35,4 +35,4 @@ $db['default'] = array(
 </pre>
 
 Login screen url will be :
-<pre>http://yourdoamain.com/myprojects/tboadmin/index.php/login</pre>
+<pre>http://yourdoamain.com/myfolder/index.php/login</pre>
